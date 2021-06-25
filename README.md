@@ -1,2 +1,2 @@
 # TagMe
-<p> Welcome to TagMe. </p>
+<p> Welcome to TagMe! </p>
