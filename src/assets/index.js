@@ -1,0 +1,1 @@
+export const reactLogo = require('./images/reactLogo.svg').default;   
