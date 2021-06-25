@@ -11,7 +11,7 @@ function App() {
           Edit <code>src/App.js</code> and save to reload.
         </p>
         <a
-          className="App-link bg-white rounded mt-2 px-2"
+          className="App-link bg-white rounded mt-5 px-10"
           href="https://reactjs.org"
           target="_blank"
           rel="noopener noreferrer"
